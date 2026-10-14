@@ -1,0 +1,8 @@
+﻿ultralytics
+opencv-python<5
+faster-whisper
+pyttsx3
+pywin32
+sounddevice
+requests
+numpy
